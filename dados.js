@@ -2,7 +2,8 @@
     {
         titulo: "Restaurante",
         descricao: "Estabelecimento comercial onde refeições são preparadas e servidas aos clientes.",
-        link: "https://pt.wikipedia.org/wiki/Restaurante"
+        link: "https://pt.wikipedia.org/wiki/Restaurante",
+        tags: "Estabelecimentosss"
     },
     {
         titulo: "Cafeteria",
